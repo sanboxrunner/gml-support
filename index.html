@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Description">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <title>LiarOnce Wikis</title>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+    <link rel="shortcut icon" href="/favicon.ico" /> 
+</head>
+<body>
+    <div id="app"></div>
+</body>
+<script>
+    window.$docsify = {
+      basePath: '/docs/',
+      homepage: 'index.md',
+      auto2top: true,
+      maxLevel: 9999,
+      coverpage: true,
+      executeScript: true,
+      loadNavbar: true,
+      mergeNavbar: true,
+      name: 'GML Support',
+      autoHeader: true,
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: {
+            '/zh-cn': '搜索',
+            '/': 'Type to search'
+          },
+        noData: {
+            '/zh-cn/': '找不到结果',
+            '/': 'No Results'
+          },
+       }
+    };
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    };
+</script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+</html>
