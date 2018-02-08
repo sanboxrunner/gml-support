@@ -1,3 +1,5 @@
+![logo](icon.png)
+
 # GML Support
 
 > GameMaker Language Support in Visual Studio Code.
