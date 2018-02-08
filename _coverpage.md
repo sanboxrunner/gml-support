@@ -1,4 +1,4 @@
-![logo](icon.png)
+![logo](assets/icon.png)
 
 # GML Support
 
@@ -7,4 +7,4 @@
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=liaronce.gml-support)
 [Get Started](#gml-support)
 
-![](bg.png)
+![](assets/bg.png)
