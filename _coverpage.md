@@ -6,3 +6,5 @@
 
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=liaronce.gml-support)
 [Get Started](#gml-support)
+
+![](bg.png)
