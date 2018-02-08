@@ -23,6 +23,5 @@ This plug-in requires the [`vscode-icons`](https://github.com/vscode-icons/vscod
 - [ ] Complete GameMaker:Studio's snippet (about 75% now).
 - [ ] Complete GameMaker 8.1's snippet (about 10% now)
 - [ ] Language Server
-
-* [ ] Debugger
+- [ ] Debugger
 
