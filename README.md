@@ -20,8 +20,13 @@ This plug-in requires the [`vscode-icons`](https://github.com/vscode-icons/vscod
 
 ## Tasks
 
-- [ ] Complete GameMaker:Studio's snippet (about 75% now).
-- [ ] Complete GameMaker 8.1's snippet (about 10% now).
+- [ ] Completing GameMaker:Studio's snippet (about 75% now).
+- [ ] Completing GameMaker 8.1's snippet (about 10% now).
 - [ ] Language Server.
 - [ ] Debugger.
 
+## Q&A
+
+> 1, Why delete function information?
+
+Because I think the effect of displaying function information on code snippets is very poor, I would like to implement it after I make a language server, I started to remove the function information in the code snippet from 1.3.3
