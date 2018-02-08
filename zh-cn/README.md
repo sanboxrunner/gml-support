@@ -17,3 +17,10 @@ Visual Studio Code版本需高于1.8.0。
 ## 依赖
 
 本插件需要 [`vscode-icons`](https://github.com/vscode-icons/vscode-icons) 和 [`Shader languages support for VS Code`](https://github.com/stef-levesque/vscode-shader)，这些将在本插件安装时自动安装。
+
+## 任务
+
+* [ ] 完善 GameMaker:Studio 的代码片段（现在完成大约 75% ）
+* [ ] 完善 GameMaker 8.1 的代码片段（现在完成大约 10% ）
+* [ ] Language Server
+* [ ] 调试器

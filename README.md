@@ -17,3 +17,12 @@ Search and install in Visual Studio Code, reload.
 ## Dependencies
 
 This plug-in requires the [`vscode-icons`](https://github.com/vscode-icons/vscode-icons) and [`Shader languages support for VS Code`](https://github.com/stef-levesque/vscode-shader), these plug-ins will be installed automatically in this installation.
+
+## Tasks
+
+- [ ] Complete GameMaker:Studio's snippet (about 75% now).
+- [ ] Complete GameMaker 8.1's snippet (about 10% now)
+- [ ] Language Server
+
+* [ ] Debugger
+
