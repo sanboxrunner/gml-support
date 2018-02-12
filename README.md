@@ -16,7 +16,7 @@ Search and install in Visual Studio Code, reload.
 
 ## Dependencies
 
-This plug-in requires the [`vscode-icons`](https://github.com/vscode-icons/vscode-icons) and [`Shader languages support for VS Code`](https://github.com/stef-levesque/vscode-shader), these plug-ins will be installed automatically in this installation.
+This extension requires the [`vscode-icons`](https://github.com/vscode-icons/vscode-icons) and [`Shader languages support for VS Code`](https://github.com/stef-levesque/vscode-shader), these extension will be installed automatically in this installation.
 
 ## Tasks
 
