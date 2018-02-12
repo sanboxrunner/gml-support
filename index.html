@@ -23,6 +23,9 @@
       name: 'GML Support',
       autoHeader: true,
       repo: 'https://github.com/LiarOnce/gml-support',
+      plugins: [
+          window.DocsifyCopyCodePlugin.init()
+      ],
       search: {
         maxAge: 86400000,
         paths: 'auto',
@@ -34,10 +37,7 @@
             '/zh-cn/': '找不到结果',
             '/': 'No Results'
           },
-       },
-      plugins: [
-          window.DocsifyCopyCodePlugin.init()
-      ]
+       }
     };
 </script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
