@@ -1,7 +1,7 @@
 - GML Support
 
- - [开始](Start.md)
- - [依赖](Dependencies.md)
- - [任务](Tasks.md)
- - [Q&A](QA.md)
- - [注意](Notices.md)
+ - [开始](zh-cn/Start.md)
+ - [依赖](zh-cn/Dependencies.md)
+ - [任务](zh-cn/Tasks.md)
+ - [Q&A](zh-cn/QA.md)
+ - [注意](zh-cn/Notices.md)
