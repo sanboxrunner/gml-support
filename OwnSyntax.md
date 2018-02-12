@@ -2,13 +2,15 @@
 
 In the current version I added highlighting support for some plugins, but I can not provide highlighting support for every plugins, so in 1.3.6 you can add your own highlight.
 
+This is a testing features, I also welcome your contribution to other plugin's syntax.
+
 ## How to add
 
  - Create an `extra.json` file in the `syntaxes` directory in the extension directory. e.g. `C:\Users\(your username)\.vscode\extensions\liaronce.gml-support-x.x.x\syntaxes`.
 
  - Writing and saving syntax highlighting in the following format.
 
- ```json
+```json
 {
 	"$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
     "fileTypes": ["gml"],
