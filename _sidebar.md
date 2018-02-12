@@ -9,6 +9,7 @@
 
 - More info
 
+ - [Third-party](Thirdparty.md)
  - [Tasks](Tasks.md)
  - [Q&A](QA.md)
  - [Notices](Notices.md)
