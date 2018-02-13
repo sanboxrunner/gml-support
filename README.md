@@ -7,3 +7,21 @@
 GameMaker Language Support in Visual Studio Code.
 
 Visual Studio Code version should be higher than 1.8.0.
+
+## Credits
+
+ - [LiarOnce](https://me.liaronce.win)
+
+ - [Visual Studio Code](https://code.visualstudio.com)
+
+ - [GameMaker Syntax](https://yal.cc/notepad-syntax-highlighting-for-gamemaker-81/) by YellowAfterlife
+
+ - [Sublime-GameMaker-Studio-Language-Bundle](https://github.com/Uduse/Sublime-GameMaker-Studio-Language-Bundle)  with Apache-2.0 by Uduse
+
+## Thanks
+
+ - [laspencer91](https://github.com/laspencer91)
+
+## Donate
+
+[Paypal](https://www.paypal.me/liaronce)
