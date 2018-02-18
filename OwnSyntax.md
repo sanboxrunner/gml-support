@@ -1,12 +1,14 @@
-# Add own syntax highlighting(Testing)
+# Add own syntax highlighting
 
-In the current version I added highlighting support for some plugins, but I can not provide highlighting support for every plugins, so in 1.3.6 you can add your own highlight.
+In the current version I added highlighting support for some plugins, but I can not provide highlighting support for every plugins, so in 1.3.6 you can add your own highlighting.
 
-This is a testing features, I also welcome your contribution to other plugin's syntax.
+In 1.3.8 this feature is removed in this extension, you need install [`GML Support Custom`](https://marketplace.visualstudio.com/items?itemName=liaronce.gml-support-custom) to continue.
 
 ## How to add
 
- - Create an `extra.json` file in the `syntaxes` directory in the extension directory. e.g. `C:\Users\(your username)\.vscode\extensions\liaronce.gml-support-x.x.x\syntaxes`.
+ - Install [`GML Support Custom`](https://marketplace.visualstudio.com/items?itemName=liaronce.gml-support-custom)
+
+ - Edit `gmlextra.json` file in the `syntaxes` directory in the extension directory. e.g. `C:\Users\(your username)\.vscode\extensions\liaronce.gml-support-custom-0.0.1\syntaxes`.
 
  - Writing and saving syntax highlighting in the following format.
 
