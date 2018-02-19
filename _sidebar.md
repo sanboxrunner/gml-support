@@ -5,7 +5,7 @@
 
 - Customization
 
- - [Add own syntax highlighting(Testing)](OwnSyntax.md)
+ - [Add own syntax highlighting](OwnSyntax.md)
 
 - More info
 
