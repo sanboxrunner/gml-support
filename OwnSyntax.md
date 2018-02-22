@@ -10,7 +10,7 @@ In 1.3.8 this feature is removed in this extension, you need install [`GML Suppo
 
  - Edit `gmlextra.json` file in the `syntaxes` directory in the extension directory. e.g. `C:\Users\(your username)\.vscode\extensions\liaronce.gml-support-custom-0.0.1\syntaxes`.
 
- - Writing and saving syntax highlighting in the following format.
+ - Writing and saving syntax highlighting in the following format (like `TextMate` grammar).
 
 ```json
 {
@@ -19,15 +19,15 @@ In 1.3.8 this feature is removed in this extension, you need install [`GML Suppo
     "scopeName": "source.gml-extra",
 	  "patterns": [
       {
-         "match": "(?i)\\b(liaronce_test)\\b",
+         "match": "(?i)\\b(liaronce_test)\\b",   //This is functions
          "name": "support.function.gml-extra"
       },
       {
-         "match": "(?i)\\b(liaronce_test)\\b",
+         "match": "(?i)\\b(liaronce_test)\\b",   //This is constants
          "name": "constant.gml-extra"
       },
       {
-         "match": "(?i)\\b(liaronce_test)\\b",
+         "match": "(?i)\\b(liaronce_test)\\b",   //This is variables
          "name": "support.variable.gml-extra"
       }
    ]

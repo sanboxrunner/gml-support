@@ -10,7 +10,7 @@
 
  - 在插件目录的`syntaxes`文件夹内修改`gmlextra.json`文件。 例如 `C:\Users\(your username)\.vscode\extensions\liaronce.gml-support-custom-0.0.1\syntaxes`.
 
- - 按照以下格式书写并保存。
+ - 按照以下格式书写并保存（类似 `TextMate` 语法格式）。
 
 ```json
 {
@@ -19,15 +19,15 @@
     "scopeName": "source.gml-extra",
 	  "patterns": [
       {
-         "match": "(?i)\\b(liaronce_test)\\b",
+         "match": "(?i)\\b(liaronce_test)\\b",   //这是函数
          "name": "support.function.gml-extra"
       },
       {
-         "match": "(?i)\\b(liaronce_test)\\b",
+         "match": "(?i)\\b(liaronce_test)\\b",   //这是常量
          "name": "constant.gml-extra"
       },
       {
-         "match": "(?i)\\b(liaronce_test)\\b",
+         "match": "(?i)\\b(liaronce_test)\\b",   //这是变量
          "name": "support.variable.gml-extra"
       }
    ]
