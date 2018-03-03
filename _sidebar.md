@@ -1,7 +1,6 @@
 - Getting started
 
  - [Start](Start.md)
- - [Dependencies](Dependencies.md)
 
 - Customization
 
