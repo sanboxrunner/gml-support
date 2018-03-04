@@ -18,6 +18,8 @@ Visual Studio Code版本需高于1.8.0。
 
  - [Sublime-GameMaker-Studio-Language-Bundle](https://github.com/Uduse/Sublime-GameMaker-Studio-Language-Bundle)  with Apache-2.0 by Uduse
 
+ - [GMEdit](https://github.com/GameMakerDiscord/GMEdit) with MIT License by GameMakerDiscord
+
 ## Thanks
 
  - [laspencer91](https://github.com/laspencer91)
