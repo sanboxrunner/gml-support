@@ -1,10 +1,10 @@
 - 入门
 
  - [开始](zh-cn/Start.md)
- - [GML Support with GameMaker 8.1](zh-cn/exteditor/gm81.md)
- - [GML Support with GameMaker Studio](zh-cn/exteditor/gms.md)
- - [GML Support with GameMaker Studio 2](zh-cn/exteditor/gms2.md)
- - [GML Support with LateralGM](zh-cn/exteditor/lgm.md)
+ - [GML Support with GameMaker 8.1](zh-cn/gm81.md)
+ - [GML Support with GameMaker Studio](zh-cn/gms.md)
+ - [GML Support with GameMaker Studio 2](zh-cn/gms2.md)
+ - [GML Support with LateralGM](zh-cn/lgm.md)
 
 - 自定义
 
