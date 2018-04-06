@@ -10,6 +10,8 @@
 
  - [添加自定义语法高亮](zh-cn/OwnSyntax.md)
 
+- [贡献](zh-cn/Contribute.md)
+
 - 更多信息
 
  - [第三方插件支持](zh-cn/Thirdparty.md)

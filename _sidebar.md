@@ -10,6 +10,8 @@
 
  - [Add own syntax highlighting](OwnSyntax.md)
 
+- [Contribute](Contribute.md)
+
 - More info
 
  - [Third-party](Thirdparty.md)
