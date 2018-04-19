@@ -24,6 +24,12 @@ Visual Studio Code version should be higher than 1.8.0.
 
  - [laspencer91](https://github.com/laspencer91)
 
+## Gold Edition
+
+You can buy Gold Edition for long-term support.    
+This version will provide support for up to 1 year and 6 months.    
+FastSpring: [https://liaronce.onfastspring.com/](https://liaronce.onfastspring.com/)
+
 ## Donate
 
 [Paypal](https://www.paypal.me/liaronce)

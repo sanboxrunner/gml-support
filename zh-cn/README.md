@@ -24,6 +24,13 @@ Visual Studio Code版本需高于1.8.0。
 
  - [laspencer91](https://github.com/laspencer91)
 
+ ## 黄金版
+
+你可以购买黄金版以获得长期支持。    
+该版本将获得最多一年6个月的支持。    
+FastSpring: [https://liaronce.onfastspring.com/](https://liaronce.onfastspring.com/)
+
+
 ## 捐赠
 
 [Paypal](https://www.paypal.me/liaronce)
