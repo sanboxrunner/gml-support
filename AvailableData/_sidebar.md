@@ -10,7 +10,7 @@
 
  - [Add own syntax highlighting](OwnSyntax.md)
 
- - Available Data
+- Available Data
 
  - [Introduction](AvailableData/Index.md)
  - [Usage](AvailableData/DataUsage.md)
