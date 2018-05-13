@@ -13,7 +13,6 @@
 - Available Data
 
  - [Introduction](AvailableData/Index.md)
- - [Usage](AvailableData/DataUsage.md)
 
 - [Contribute](Contribute.md)
 

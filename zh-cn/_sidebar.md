@@ -13,7 +13,6 @@
 - 可用性数据
 
  - [介绍](zh-cn/AvailableData/Index.md)
- - [用法](zh-cn/AvailableData/DataUsage.md)
 
 - [贡献](zh-cn/Contribute.md)
 
