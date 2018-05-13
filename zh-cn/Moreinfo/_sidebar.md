@@ -19,7 +19,7 @@
 
 - 更多信息
 
- - [第三方插件支持](zh-cn/MoreInfo/Thirdparty.md)
- - [任务](zh-cn/MoreInfo/Tasks.md)
- - [Q&A](zh-cn/MoreInfo/QA.md)
- - [注意](zh-cn/MoreInfo/Notices.md)
+ - [第三方插件支持](zh-cn/Moreinfo/Thirdparty.md)
+ - [任务](zh-cn/Moreinfo/Tasks.md)
+ - [Q&A](zh-cn/Moreinfo/QA.md)
+ - [注意](zh-cn/Moreinfo/Notices.md)

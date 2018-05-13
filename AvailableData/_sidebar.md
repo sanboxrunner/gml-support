@@ -19,7 +19,7 @@
 
 - More info
 
- - [Third-party](MoreInfo/Thirdparty.md)
- - [Tasks](MoreInfo/Tasks.md)
- - [Q&A](MoreInfo/QA.md)
- - [Notices](MoreInfo/Notices.md)
+ - [Third-party](Moreinfo/Thirdparty.md)
+ - [Tasks](Moreinfo/Tasks.md)
+ - [Q&A](Moreinfo/QA.md)
+ - [Notices](Moreinfo/Notices.md)
